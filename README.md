@@ -1,17 +1,25 @@
 # Election Exit Poll Prediction
  The is to predict which party a citizen is going to vote for on the basis of their age and according to the answers given by the citizens to the questions asked in a survey conducted.
  
+ 
  This is a classification problem.I tried different algorithms.
+ 
    •Logistic Regression
    
    •Random forest
    
    •Support Vector Machine
+   
    •K Nearest Neighbour
+   
    •Naive Bayes
+   
    •Linear Discriminant Analysis
+   
    •Adaboost
+   
    •XGBoost
+   
    
    I did hyper parameter tuning and selected optimum model as final model.
    
